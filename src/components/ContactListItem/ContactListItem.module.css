@@ -2,6 +2,9 @@
   display: flex;
   justify-content: space-between;
   font-weight: 700;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .deleteButton {
@@ -12,4 +15,7 @@
   color: rgb(255, 255, 255);
   font-size: 1em;
   font-weight: 600;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
